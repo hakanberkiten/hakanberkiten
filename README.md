@@ -1,65 +1,82 @@
-# Hi 👋, I'm Hakan Berkiten
+<h1 align="center">Hi there 👋, I'm Hakan</h1>
 
-🎓 I'm a Computer Engineering student at **Akdeniz University**.  
-💻 Passionate about **Software Development**, **AI Projects**, and **Full-Stack Applications**.  
-🚀 Currently focused on **E-commerce Systems**, **React Native Apps**, and **Game AI Optimization**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hakanberkiten&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
----
-
-## 🛠️ Technologies & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="center">
+🎓 Computer Engineering Student at Akdeniz University  
+<br/>
+💻 Passionate about Software Development, AI Integration, and Full-Stack Applications  
+<br/>
+🚀 Building mobile, web, and backend projects with meaningful impact
+</p>
 
 ---
 
-## 📌 Projects I'm proud of
+## ⚒️ Tech Stack & Skills
 
-- 🛒 **E-Commerce Web App**  
-  Full-stack application using Angular + Spring Boot + MySQL + Stripe integration.
+### 🔤 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
+</p>
 
-- 📱 **Doctor Chatbot & Symptom Classifier**  
-  React Native app integrated with a Flask backend & ML model for diagnosis suggestions.
+### 💻 Frontend & Mobile
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+</p>
 
-- 🧠 **Greed Game AI**  
-  Custom AI using Monte Carlo Tree Search + Beam Search for large board optimization (50x50).
 
-- 🤖 **Custom Web Scraper**  
-  Puppeteer-based scrapers for hotel review aggregation with time filters & multilingual support.
+### 🛠️ Backend & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+</p>
 
 ---
+
+##  Interests
+
+- 🧠 **AI Interests:** 
+  - Building AI-powered chatbot systems
+  - Working on AI integration with apps via Flask APIs
+- 🧩 **Full-Stack Interests:**
+  - Developing secure RESTful APIs using Spring Boot & Flask
+  - Building responsive frontends using Angular & React
+  - Designing scalable MySQL database schemas with relational mapping
+- 🔍 **Currently exploring:** 
+  - AI-driven recommendation systems
+  - Clean architecture for large-scale backend systems
+- 💼 **Portfolio:** [www.hakanberkiten.com](https://www.hakanberkiten.com)
+
+## 📬 Connect With Me
+
+You can reach me via email: **hakanberkiten7@gmail.com**
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hakanberkiten&theme=radical&border_radius=5)](https://github.com/hakanberkiten)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakanberkiten&layout=compact&theme=radical)](https://github.com/hakanberkiten)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hakanberkiten&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakanberkiten&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hakanberkiten&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hakanberkiten&theme=radical" />
+</p>
 
 ---
 
-## 💬 Ask me about
 
-- AI & Machine Learning Projects  
-- React Native Mobile Development  
-- E-commerce Systems & Databases  
-- Full-Stack App Architecture  
-- Web scraping with Puppeteer/Crawlee
 
----
-
-## 📫 How to reach me
-
-📧 hakanberkiten@gmail.com  
-🌐 [My GitHub Profile](https://github.com/hakanberkiten)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
